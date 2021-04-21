@@ -3,7 +3,7 @@
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 # add
-from secret import add_one
+from secret import add_two
 
 
 def print_hi(name):
@@ -15,7 +15,7 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print('a')
-    print(add_one(3))
+    print(add_two(3))
     print('now in old new new branch develop')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
